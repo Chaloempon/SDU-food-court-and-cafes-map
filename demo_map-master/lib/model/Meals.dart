@@ -17,7 +17,7 @@ class Meals {
 
 List<Meals> MEALS_DATA = [
   Meals("Café By Home", "1",
-      "ด้านซ้าย Homebakery",
+      "อยู่ทางด้านซ้ายของ Homebakery",
       "http://www.dusit.ac.th/wp-content/uploads/2020/12/HomeCafeForWeb-1024x569.jpg","37","เปิดให้บริการทุกวัน เวลา 07.15-18.00 น.",
       13.776788607445784, 100.51009685476365,4
   ),
@@ -58,11 +58,11 @@ List<Meals> MEALS_DATA = [
   ),
   Meals("7-11", "7",
       "ประตูสวนดุสิต 5",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/7-eleven_logo.svg/272px-7-eleven_logo.svg.png","37","เปิดให้บริการทุกวัน 24 ชม.",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/7-eleven_logo.svg/272px-7-eleven_logo.svg.png","37","7-11 เปิดให้บริการทุกวัน 07.00-18.00",
       13.777174995683561, 100.51091397872736,4
   ),
   Meals("Cafe Amazon", "8",
-      "ใต้ตึก 3 ข้างธนาคาร",
+      "ใต้ตึก 3 ข้างธนาคารกรุงเทพ",
       "https://lh5.googleusercontent.com/p/AF1QipO8UyBKT0WJ6nL4ugcPApzg_xmg_t-8K-MU3E2P=w1080-k-no","37","เปิดให้บริการทุกวัน จันทร์-ศุกร์ เวลา 07.00-18.00 น. เสาร์-อาทิตย์ 7.30-15.30 น.",
       13.776265365886454, 100.51077206577715,4
   ),
@@ -77,7 +77,7 @@ List<Meals> MEALS_DATA = [
       13.777006550590379, 100.5102967370562,4
   ),
   Meals("NobiCha", "11",
-      "ใต้ตึก 3 ข้างธนาคาร",
+      "ใต้ตึก 3 ข้างธนาคารกรุงเทพ",
       "https://www.nobicha.co.th/wp-content/uploads/2019/10/%E0%B9%82%E0%B8%99%E0%B8%9A%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2-%E0%B8%A1.%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95-1-960x640.jpg","37","เปิดให้บริการทุกวัน เวลา 07.00-15.00 น.",
       13.776247049272062, 100.51081199773485,3
   ),
